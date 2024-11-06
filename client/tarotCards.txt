@@ -1,0 +1,89 @@
+var tarotCards = [{
+    "tarotName": "Death",
+    "imagePath": "images/death.jpeg",
+    "tarotDescription": "Death represents transformation, endings and new beginnings. When the Death card shows up it tells you that things will not be the same again. A transformation is taking place, you are growing and changing with the circumstances you find yourself in."
+}, {
+    "tarotName": "Judgement",
+    "imagePath": "images/judgement.jpeg",
+    "tarotDescription": "Judgement represents taking responsibility for your actions and your life, being a good judge of character, seeing the truth and knowing what you want. The Judgement card often shows up when you need to step up and be a leader, speaking the truth and being more assertive."
+}, {
+    "tarotName": "Justice",
+    "imagePath": "images/justice.jpeg",
+    "tarotDescription": "Justice represents all kinds of legal matters, the spiritual laws of truth and cause and effect. When the Justice card shows up it reminds us to be lawful and fair to achieve the best result."
+}, {
+    "tarotName": "Strength",
+    "imagePath": "images/strength.jpeg",
+    "tarotDescription": "Strength represents our courage, passions, strength, self-confidence, patience, and compassion. Strength reminds us to follow our passions, to take the time to do the things that make us tick, that makes us strong within ourselves and which builds confidence and self-worth."
+}, {
+    "tarotName": "Temperance",
+    "imagePath": "images/temperance.jpeg",
+    "tarotDescription": "Temperance represents a balanced interaction between the elements to create something new and fresh. Temperance includes all the elements in such a way that it brings out the best of each substance. When the Temperance card shows up in your life there is great balance and strength between the different areas and people in your life that are working together."
+}, {
+    "tarotName": "The Chariot",
+    "imagePath": "images/theChariot.jpeg",
+    "tarotDescription": "Chariot represents your willpower and determination. It represents victory. The Chariot gives you the green light to charge ahead and take control of your life or an area of your life that needs your attention."
+}, {
+    "tarotName": "The Devil",
+    "imagePath": "images/theDevil.jpeg",
+    "tarotDescription": "Devil represents the primal source of behaviour that shows itself in the form of our desires and earthly needs. It also represents our fears that cause addiction and compulsive behaviour."
+}, {
+    "tarotName": "The Emperor",
+    "imagePath": "images/theEmperor.jpeg",
+    "tarotDescription": "Emperor represents masculine energy, the ruler, the head of the household, head of a company, organisation, and communities. The Emperor is an authority figure that creates a solid foundation to build and create on."
+}, {
+    "tarotName": "The Empress",
+    "imagePath": "images/theEmpress.jpeg",
+    "tarotDescription": "Empress represents feminine power, a nurturer and a family oriented person, our mother or a mother figure, abundance, femininity, fertility and the love of the home and family."
+}, {
+    "tarotName": "The Fool",
+    "imagePath": "images/theFool.jpeg",
+    "tarotDescription": "Fool represents new beginnings, having faith in the future, being inexperienced, not knowing what to expect, having beginners luck, improvising, believing that the Universe provides, having no strings attached, being carefree."
+}, {
+    "tarotName": "The Hanged Man",
+    "imagePath": "images/theHangedMan.jpeg",
+    "tarotDescription": "Hanged Man represents being temporarily suspended. Life is on hold, but it serves a purpose. You will have a realisation that will show you what is truly important in your life."
+}, {
+    "tarotName": "The Heirophant",
+    "imagePath": "images/theHeirophant.jpeg",
+    "tarotDescription": "Hierophant represents group consciousness, religion, your belief system, ceremony, traditions, kindness, charity, giving guidance in the form of spiritual counseling."
+}, {
+    "tarotName": "The Hermit",
+    "imagePath": "images/theHermit.jpeg",
+    "tarotDescription": "Hermit represents spending time alone, being a lone wolf, soul-searching, seeking spiritual guidance, introspection."
+}, {
+    "tarotName": "The High Priestess",
+    "imagePath": "images/theHighPriestess.jpeg",
+    "tarotDescription": "High Priestess represents secrets, mystery, intuition, wisdom, making the impossible become possible, and magic."
+}, {
+    "tarotName": "The Lovers",
+    "imagePath": "images/theLovers.jpeg",
+    "tarotDescription": "Lovers represent love and relationship, soul mates, physical attractions, choices to be made, The Lovers represents doing the things that make us feel whole, being with the people who make us feel whole."
+}, {
+    "tarotName": "The Magician",
+    "imagePath": "images/theMagician.jpeg",
+    "tarotDescription": "Magician represents your ability to communicate clearly, to sell yourself, and to be innovative. The Magician has all the tools and resources available to manifest his desired outcome, so it is a good card to get if you want to create."
+}, {
+    "tarotName": "The Moon",
+    "imagePath": "images/theMoon.avif",
+    "tarotDescription": "Moon represents illusions, intuition, fantasies, fears and anxiety. When the Moon appears things might not be quite as they seem. Your insecurities might be running high or you find yourself on the receiving end of other people's insecurities."
+}, {
+    "tarotName": "The Star",
+    "imagePath": "images/theStar.jpeg",
+    "tarotDescription": "Star represents hope, a bright future, joy, optimism, guidance, having answers to your questions, being and feeling the connection to the divine, serenity and inspiration. The Star shines so brightly that when it shows up in a reading it tells you that you are being the light in someone's life."
+}, {
+    "tarotName": "The Sun",
+    "imagePath": "images/theSun.jpeg",
+    "tarotDescription": "Sun represents success, joy, sunshine, day, warmth and happiness. The Sun shows up when life is sunny and you are enjoying your time with the people you love. Life is simple rather than complicated. Relationships are blossoming and you are feeling loved."
+}, {
+    "tarotName": "The Tower",
+    "imagePath": "images/theTower.jpeg",
+    "tarotDescription": "Tower represents disaster, emotional 'meltdowns' and/or tantrums, anger issues, upheaval, sudden change that is caused by disruption and revelations that rock the foundation of the person, household, organisation or even country, depending on the nature of the question."
+}, {
+    "tarotName": "The Wheel of Fortune",
+    "imagePath": "images/theWheelOfFortune.jpeg",
+    "tarotDescription": "Wheel of Fortune is the Big destiny card in the tarot deck. What is meant to be is meant to be. In the tarot when the Wheel of Fortune turns up, it means that the events and people in your life are in your life due to it being pre-decided by destiny."
+}, {
+    "tarotName": "The World",
+    "imagePath": "images/theWorld.jpeg",
+    "tarotDescription": "World is the final Major Arcana card and represents fulfillment and successful completion of a cycle. You know your place in the world, and your life lessons have made you smart and accomplished. The World shows up when the world is ready for you and want what you have to offer."
+}]

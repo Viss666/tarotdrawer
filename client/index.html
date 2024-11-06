@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>Tarot</title>
+        <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    </head>
+    <body>
+        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+    
+        <div id="header-div">
+            <h1>The Tarot</h1>
+        </div>
+        <br>
+        <div id="hidden-buttons">
+            <div id="registration-div">
+                <button id="reg-button">register here!</button>
+            </div>
+            <div id="login-div">
+                <button id="login-button">login here!</button>
+            </div>
+        </div>
+        <div id="hidden-body"> 
+            <div id="ask-a-question">
+            ask a question to the holy Tarot:
+            <input type="text" id="input-question">
+            <button id="ask-button">ask</button>
+            </div>
+            <br>
+            &nbsp;
+            <img id="first-image" src="images/tarotDeck.png">
+            <img id="current-image" src="">
+            <h2 id="current-question"></h2>
+            <h4 id="current-reading"></h4>
+
+
+            <h2 id="previous-readings"></h2>
+            <ul id="questions">
+                
+            </ul>
+        </div>
+        <script src="app.js"></script>
+    </body>
+</html>
